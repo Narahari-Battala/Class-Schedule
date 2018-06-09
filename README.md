@@ -9,6 +9,8 @@ departments
 
 Admin can make changes (add/update/delete/view) to courses, sections, departments.
 
+The application is developed using HTML, CSS, JavaScript, JSP, JSTL, MySQL. The User Interface is designed with HTML, CSS, JavaScript and integrated with Model View Controller using JSP's and JSTL. MySQL is used at the backend to store all the data.
+
 ## Additional Functionalities Implemented:
 
 1. Email Functionality.
