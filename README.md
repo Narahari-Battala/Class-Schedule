@@ -17,4 +17,4 @@ The application is developed using HTML, CSS, JavaScript, JSP, JSTL, MySQL. The 
 
 2. Password Hashing.
 
-3. Imput Validation and Output Encoding.
+3. Input Validation and Output Encoding.
