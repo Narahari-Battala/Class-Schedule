@@ -1,6 +1,6 @@
 # Course-Schedule
 
-This is a Web Application using which students can see the list of courses that are being offered in the selected semester,
+Course Schedule is a Web Application using which students can see the list of courses that are being offered in the selected semester,
 students can enrol for courses , can drop the courses they have already enrolled and can view their schedule of classes.
 
 Students will be given a unique student id using which they can create for an account , students must have an existing valid account
